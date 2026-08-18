@@ -1,0 +1,58 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.5px;
+}
+
+body {
+    background-color: #fff8f0;
+    color: #333333;
+    font: 1.2em / 1.5 'Courier New';
+    line-height: 1.6;
+    margin: 40px;
+}
+
+h1 {
+    color: #8b4513;
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    color: #a0522d;
+    font-size: 32px;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+a {
+    color: #c45a32;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8b4513;
+    text-decoration: underline;
+}
+
+.recipes {
+    border: 1px solid #8b4513;
+    font-size: 24px;
+    padding: 16px 32px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+ul, ol {
+    font-size: 16px;
+}
+
+li {
+    margin-bottom: 8px;
+}
